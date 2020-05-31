@@ -1,0 +1,6 @@
+[
+    {
+        "name": "GCC ARM NONE EABI",
+        "toolchainFile": "arm-cmake-toolchains/arm-gcc-toolchain.cmake"
+    }
+]
