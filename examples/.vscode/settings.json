@@ -1,6 +1,5 @@
 {
     "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
-    "cortex-debug.JLinkGDBServerPath": "/home/orfanidi/JLink_Linux_V662c_arm/JLinkGDBServerCLExe",
     "cortex-debug.armToolchainPath": "/usr/bin",
     "cortex-debug.openocdPath": "/usr/bin/openocd"
 }

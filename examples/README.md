@@ -33,8 +33,8 @@
             "executable": "./build/blinking_led.elf", // Путь к исполняемому файлу
             "request": "launch", // Вид запуска
             "type": "cortex-debug",
-            // Путь к нативному компилятору GCC
-            "armToolchainPath": "/opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-arm-embedded.7-2018-q2-update.linux64_1.0.0.201904120901/tools/bin/",
+            // Путь к нативному компилятору GCC (arm-none-eabi-gdb)
+            "armToolchainPath": "/usr/bin/",
             "serverpath": "/usr/bin/openocd", // Исполняемый файл отладчика
             "servertype": "openocd", // Тип отладчика
             "serialNumber": "", // Серийный номер отладчика(если не один)
