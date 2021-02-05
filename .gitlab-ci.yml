@@ -4,4 +4,4 @@ build:
   after_script:
   - cd /media/storage/gitlab/
   - sudo rm -rf arm-cmake-toolchains
-  - git clone http://192.168.109.15/root/arm-cmake-toolchains.git
+  - git clone http://git.home.lan/root/arm-cmake-toolchains.git
